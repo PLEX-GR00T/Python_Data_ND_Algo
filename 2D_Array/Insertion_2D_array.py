@@ -1,7 +1,7 @@
 """
 Name : Priyank Thakkar
 Date : 15/8/2020
-Info : Accessing 2D Array
+Info : Insertion in 2D Array
 """
 
 from array import *
