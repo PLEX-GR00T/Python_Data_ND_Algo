@@ -1,7 +1,7 @@
 '''
 writter : Priyank Thakkar
 Date : 15/8/2020
-Info : Creating an Array 
+Info : Creating an Array Program 1
 '''
 
 from array import *
